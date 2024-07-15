@@ -1,0 +1,2 @@
+cc -g main2.c -o test -lglfw -lGL -lX11 -lpthread -lXrandr -lXi -lm -ldl -lGLEW
+make sure to just include the appropriate heads via #include "../cglm/"
